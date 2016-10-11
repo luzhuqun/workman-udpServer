@@ -1,0 +1,581 @@
+2016-09-14 08:34:05 Workerman[start.php] start in DAEMON mode
+2016-09-18 00:42:07 Workerman[start.php] start in DAEMON mode
+2016-09-18 04:07:30 Workerman[start.php] start in DAEMON mode
+2016-09-18 04:07:34 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 04:07:34 worker[StatisticProvider:1897] exit with status 65280
+2016-09-18 05:07:31 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:07:31 worker[StatisticProvider:1900] exit with status 65280
+2016-09-18 05:21:04 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:21:04 worker[StatisticProvider:1908] exit with status 65280
+2016-09-18 05:24:43 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:24:43 worker[StatisticProvider:1950] exit with status 65280
+2016-09-18 05:24:52 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:24:52 worker[StatisticProvider:1954] exit with status 65280
+2016-09-18 05:25:28 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:25:28 worker[StatisticProvider:1955] exit with status 65280
+2016-09-18 05:28:57 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:28:57 worker[StatisticProvider:1957] exit with status 65280
+2016-09-18 05:36:36 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:36:36 worker[StatisticProvider:1961] exit with status 65280
+2016-09-18 05:36:57 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:36:57 worker[StatisticProvider:1970] exit with status 65280
+2016-09-18 05:36:58 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:36:58 worker[StatisticProvider:1971] exit with status 65280
+2016-09-18 05:37:07 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:37:07 worker[StatisticProvider:1972] exit with status 65280
+2016-09-18 05:37:08 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:37:08 worker[StatisticProvider:1974] exit with status 65280
+2016-09-18 05:37:09 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:37:09 worker[StatisticProvider:1975] exit with status 65280
+2016-09-18 05:40:46 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:40:46 worker[StatisticProvider:1976] exit with status 65280
+2016-09-18 05:41:05 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:41:05 worker[StatisticProvider:2004] exit with status 65280
+2016-09-18 05:43:06 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:43:06 worker[StatisticProvider:2006] exit with status 65280
+2016-09-18 05:43:13 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 05:43:13 worker[StatisticProvider:2009] exit with status 65280
+2016-09-18 06:02:49 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 06:02:49 worker[StatisticProvider:2010] exit with status 65280
+2016-09-18 06:06:27 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-18 06:06:27 worker[StatisticProvider:2030] exit with status 65280
+2016-09-29 06:37:20 Workerman[start.php] start in DAEMON mode
+2016-09-29 06:39:48 WORKER EXIT UNEXPECTED E_ERROR Class 'Bootstrap\Mongo' not found in /vagrant/workerman/Applications/Statistics/Bootstrap/StatisticProvider.php on line 175
+2016-09-29 06:39:48 worker[StatisticProvider:4330] exit with status 65280
+2016-09-29 06:44:03 Workerman[push.php] start in DAEMON mode
+2016-09-29 08:19:12 Workerman[start.php] start in DAEMON mode
+2016-09-29 08:19:12 Workerman[start.php] already running
+2016-09-29 08:54:21 Workerman[start.php] start in DAEMON mode
+2016-09-29 08:54:21 Workerman[start.php] already running
+2016-09-29 08:54:49 Workerman[start.php] status 
+2016-09-29 08:55:53 Workerman[push.php] start in DAEMON mode
+2016-09-29 08:55:53 Workerman[push.php] already running
+2016-09-29 08:56:08 Workerman[push.php] start in DAEMON mode
+2016-09-29 08:56:08 Workerman[push.php] already running
+2016-09-29 08:56:26 Workerman[push.php] status 
+2016-09-29 08:57:27 Workerman[start_udp.php] start in DAEMON mode
+2016-09-29 09:08:31 Workerman[start_udp.php] start in DAEMON mode
+2016-09-29 09:08:31 Workerman[start_udp.php] already running
+2016-09-29 09:08:41 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-29 09:16:36 Workerman[start_websocket.php] stop 
+2016-09-29 09:16:36 Workerman[start_websocket.php] is stoping ...
+2016-09-29 09:16:36 Workerman[start_websocket.php] Stopping ...
+2016-09-29 09:16:36 Workerman[start_websocket.php] has been stopped
+2016-09-29 09:16:36 Workerman[start_websocket.php] stop success
+2016-09-29 09:16:47 Workerman[start_udp.php] stop 
+2016-09-29 09:16:47 Workerman[start_udp.php] is stoping ...
+2016-09-29 09:16:47 Workerman[start_udp.php] Stopping ...
+2016-09-29 09:16:47 Workerman[start_udp.php] has been stopped
+2016-09-29 09:16:47 Workerman[start_udp.php] stop success
+2016-09-29 09:16:55 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-29 09:17:00 Workerman[start_udp.php] start in DAEMON mode
+2016-09-29 09:17:11 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function sendMessageByUid() in /vagrant/workerman/Applications/start_udp.php on line 18
+2016-09-29 09:17:11 worker[none:8155] exit with status 65280
+2016-09-29 09:22:19 Workerman[push.php] start in DAEMON mode
+2016-09-29 09:22:19 Workerman[push.php] already running
+2016-09-29 09:22:24 Workerman[push.php] stop 
+2016-09-29 09:22:24 Workerman[push.php] is stoping ...
+2016-09-29 09:22:24 Workerman[push.php] Stopping ...
+2016-09-29 09:22:24 Workerman[push.php] has been stopped
+2016-09-29 09:22:24 Workerman[push.php] stop success
+2016-09-29 09:22:30 Workerman[push.php] start in DAEMON mode
+2016-09-29 09:31:42 Workerman[push.php] stop 
+2016-09-29 09:31:42 Workerman[push.php] is stoping ...
+2016-09-29 09:31:42 Workerman[push.php] Stopping ...
+2016-09-29 09:31:42 Workerman[push.php] has been stopped
+2016-09-29 09:31:43 Workerman[push.php] stop success
+2016-09-29 09:31:45 Workerman[push.php] start in DAEMON mode
+2016-09-29 09:35:10 Workerman[push.php] stop 
+2016-09-29 09:35:10 Workerman[push.php] is stoping ...
+2016-09-29 09:35:10 Workerman[push.php] Stopping ...
+2016-09-29 09:35:10 Workerman[push.php] has been stopped
+2016-09-29 09:35:10 Workerman[push.php] stop success
+2016-09-29 09:35:12 Workerman[push.php] start in DAEMON mode
+2016-09-30 00:35:46 Workerman[push.php] start in DAEMON mode
+2016-09-30 00:44:21 Workerman[push.php] stop 
+2016-09-30 00:44:21 Workerman[push.php] is stoping ...
+2016-09-30 00:44:21 Workerman[push.php] Stopping ...
+2016-09-30 00:44:21 Workerman[push.php] has been stopped
+2016-09-30 00:44:21 Workerman[push.php] stop success
+2016-09-30 00:44:23 Workerman[push.php] start in DAEMON mode
+2016-09-30 00:46:38 Workerman[push.php] stop 
+2016-09-30 00:46:38 Workerman[push.php] is stoping ...
+2016-09-30 00:46:38 Workerman[push.php] Stopping ...
+2016-09-30 00:46:38 Workerman[push.php] has been stopped
+2016-09-30 00:46:38 Workerman[push.php] stop success
+2016-09-30 00:46:46 Workerman[push.php] start in DAEMON mode
+2016-09-30 00:52:18 Workerman[push.php] stop 
+2016-09-30 00:52:18 Workerman[push.php] is stoping ...
+2016-09-30 00:52:18 Workerman[push.php] Stopping ...
+2016-09-30 00:52:18 Workerman[push.php] has been stopped
+2016-09-30 00:52:18 Workerman[push.php] stop success
+2016-09-30 00:52:19 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:18:26 Workerman[push.php] stop 
+2016-09-30 01:18:26 Workerman[push.php] is stoping ...
+2016-09-30 01:18:26 Workerman[push.php] Stopping ...
+2016-09-30 01:18:26 Workerman[push.php] has been stopped
+2016-09-30 01:18:26 Workerman[push.php] stop success
+2016-09-30 01:20:45 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:20:55 Workerman[push.php] stop 
+2016-09-30 01:20:55 Workerman[push.php] is stoping ...
+2016-09-30 01:20:55 Workerman[push.php] Stopping ...
+2016-09-30 01:20:55 Workerman[push.php] has been stopped
+2016-09-30 01:20:55 Workerman[push.php] stop success
+2016-09-30 01:22:38 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 01:25:00 Workerman[start_udp.php] status 
+2016-09-30 01:25:00 Workerman[start_udp.php] not run
+2016-09-30 01:25:09 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 01:25:47 Workerman[start_udp.php] stop 
+2016-09-30 01:25:47 Workerman[start_udp.php] is stoping ...
+2016-09-30 01:25:47 Workerman[start_udp.php] Stopping ...
+2016-09-30 01:25:47 Workerman[start_udp.php] has been stopped
+2016-09-30 01:25:47 Workerman[start_udp.php] stop success
+2016-09-30 01:25:50 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 01:26:51 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:29:50 Workerman[push.php] stop 
+2016-09-30 01:29:50 Workerman[push.php] is stoping ...
+2016-09-30 01:29:50 Workerman[push.php] Stopping ...
+2016-09-30 01:29:50 Workerman[push.php] has been stopped
+2016-09-30 01:29:50 Workerman[push.php] stop success
+2016-09-30 01:29:53 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:32:12 Workerman[push.php] stop 
+2016-09-30 01:32:12 Workerman[push.php] is stoping ...
+2016-09-30 01:32:12 Workerman[push.php] Stopping ...
+2016-09-30 01:32:12 Workerman[push.php] has been stopped
+2016-09-30 01:32:12 Workerman[push.php] stop success
+2016-09-30 01:32:14 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:34:16 Workerman[push.php] stop 
+2016-09-30 01:34:16 Workerman[push.php] is stoping ...
+2016-09-30 01:34:16 Workerman[push.php] Stopping ...
+2016-09-30 01:34:16 Workerman[push.php] has been stopped
+2016-09-30 01:34:16 Workerman[push.php] stop success
+2016-09-30 01:34:18 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:37:03 Workerman[push.php] stop 
+2016-09-30 01:37:03 Workerman[push.php] is stoping ...
+2016-09-30 01:37:03 Workerman[push.php] Stopping ...
+2016-09-30 01:37:03 Workerman[push.php] has been stopped
+2016-09-30 01:37:03 Workerman[push.php] stop success
+2016-09-30 01:37:05 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:38:00 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:38:00 Workerman[push.php] already running
+2016-09-30 01:38:03 Workerman[push.php] stop 
+2016-09-30 01:38:03 Workerman[push.php] is stoping ...
+2016-09-30 01:38:03 Workerman[push.php] Stopping ...
+2016-09-30 01:38:03 Workerman[push.php] has been stopped
+2016-09-30 01:38:03 Workerman[push.php] stop success
+2016-09-30 01:38:05 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:38:32 Workerman[push.php] stop 
+2016-09-30 01:38:32 Workerman[push.php] is stoping ...
+2016-09-30 01:38:32 Workerman[push.php] Stopping ...
+2016-09-30 01:38:32 Workerman[push.php] has been stopped
+2016-09-30 01:38:32 Workerman[push.php] stop success
+2016-09-30 01:38:34 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:39:56 Workerman[push.php] stop 
+2016-09-30 01:39:56 Workerman[push.php] is stoping ...
+2016-09-30 01:39:56 Workerman[push.php] Stopping ...
+2016-09-30 01:39:56 Workerman[push.php] has been stopped
+2016-09-30 01:39:56 Workerman[push.php] stop success
+2016-09-30 01:39:57 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:44:31 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:44:31 Workerman[push.php] already running
+2016-09-30 01:44:35 Workerman[push.php] stop 
+2016-09-30 01:44:35 Workerman[push.php] is stoping ...
+2016-09-30 01:44:35 Workerman[push.php] Stopping ...
+2016-09-30 01:44:35 Workerman[push.php] has been stopped
+2016-09-30 01:44:35 Workerman[push.php] stop success
+2016-09-30 01:44:37 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:48:21 Workerman[push.php] stop 
+2016-09-30 01:48:21 Workerman[push.php] is stoping ...
+2016-09-30 01:48:21 Workerman[push.php] Stopping ...
+2016-09-30 01:48:21 Workerman[push.php] has been stopped
+2016-09-30 01:48:21 Workerman[push.php] stop success
+2016-09-30 01:48:23 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:51:28 Workerman[push.php] reload 
+2016-09-30 01:51:28 Workerman[push.php] reload
+2016-09-30 01:51:28 Workerman[push.php] reloading
+2016-09-30 01:51:55 Workerman[push.php] reload 
+2016-09-30 01:51:55 Workerman[push.php] reloading
+2016-09-30 01:51:55 Workerman[push.php] reload
+2016-09-30 01:52:03 Workerman[push.php] stop 
+2016-09-30 01:52:03 Workerman[push.php] is stoping ...
+2016-09-30 01:52:03 Workerman[push.php] Stopping ...
+2016-09-30 01:52:03 Workerman[push.php] has been stopped
+2016-09-30 01:52:03 Workerman[push.php] stop success
+2016-09-30 01:52:05 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:52:27 Workerman[push.php] stop 
+2016-09-30 01:52:27 Workerman[push.php] is stoping ...
+2016-09-30 01:52:27 Workerman[push.php] Stopping ...
+2016-09-30 01:52:27 Workerman[push.php] has been stopped
+2016-09-30 01:52:27 Workerman[push.php] stop success
+2016-09-30 01:52:28 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:53:20 Workerman[push.php] stop 
+2016-09-30 01:53:20 Workerman[push.php] is stoping ...
+2016-09-30 01:53:20 Workerman[push.php] Stopping ...
+2016-09-30 01:53:20 Workerman[push.php] has been stopped
+2016-09-30 01:53:20 Workerman[push.php] stop success
+2016-09-30 01:53:22 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:53:57 Workerman[push.php] stop 
+2016-09-30 01:53:57 Workerman[push.php] is stoping ...
+2016-09-30 01:53:57 Workerman[push.php] Stopping ...
+2016-09-30 01:53:57 Workerman[push.php] has been stopped
+2016-09-30 01:53:57 Workerman[push.php] stop success
+2016-09-30 01:53:58 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:54:55 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:54:55 Workerman[push.php] already running
+2016-09-30 01:55:01 Workerman[push.php] stop 
+2016-09-30 01:55:01 Workerman[push.php] is stoping ...
+2016-09-30 01:55:01 Workerman[push.php] Stopping ...
+2016-09-30 01:55:01 Workerman[push.php] has been stopped
+2016-09-30 01:55:01 Workerman[push.php] stop success
+2016-09-30 01:55:06 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:56:02 Workerman[push.php] stop 
+2016-09-30 01:56:02 Workerman[push.php] is stoping ...
+2016-09-30 01:56:02 Workerman[push.php] Stopping ...
+2016-09-30 01:56:02 Workerman[push.php] has been stopped
+2016-09-30 01:56:02 Workerman[push.php] stop success
+2016-09-30 01:56:04 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:57:41 Workerman[push.php] stop 
+2016-09-30 01:57:41 Workerman[push.php] is stoping ...
+2016-09-30 01:57:41 Workerman[push.php] Stopping ...
+2016-09-30 01:57:41 Workerman[push.php] has been stopped
+2016-09-30 01:57:41 Workerman[push.php] stop success
+2016-09-30 01:57:47 Workerman[push.php] start in DAEMON mode
+2016-09-30 01:58:43 Workerman[push.php] stop 
+2016-09-30 01:58:43 Workerman[push.php] is stoping ...
+2016-09-30 01:58:43 Workerman[push.php] Stopping ...
+2016-09-30 01:58:43 Workerman[push.php] has been stopped
+2016-09-30 01:58:43 Workerman[push.php] stop success
+2016-09-30 01:58:45 Workerman[push.php] start in DAEMON mode
+2016-09-30 02:04:52 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:04:52 Workerman[start_udp.php] already running
+2016-09-30 02:04:59 Workerman[start_udp.php] stop 
+2016-09-30 02:04:59 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:04:59 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:04:59 Workerman[start_udp.php] has been stopped
+2016-09-30 02:04:59 Workerman[start_udp.php] stop success
+2016-09-30 02:05:01 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:05:35 Workerman[start_udp.php] stop 
+2016-09-30 02:05:35 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:05:35 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:05:35 Workerman[start_udp.php] has been stopped
+2016-09-30 02:05:35 Workerman[start_udp.php] stop success
+2016-09-30 02:05:36 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:10:40 Workerman[push.php] start in DAEMON mode
+2016-09-30 02:10:40 Workerman[push.php] already running
+2016-09-30 02:10:44 Workerman[push.php] stop 
+2016-09-30 02:10:44 Workerman[push.php] is stoping ...
+2016-09-30 02:10:44 Workerman[push.php] Stopping ...
+2016-09-30 02:10:44 Workerman[push.php] has been stopped
+2016-09-30 02:10:44 Workerman[push.php] stop success
+2016-09-30 02:10:46 Workerman[push.php] start in DAEMON mode
+2016-09-30 02:13:32 Workerman[push.php] stop 
+2016-09-30 02:13:32 Workerman[push.php] is stoping ...
+2016-09-30 02:13:32 Workerman[push.php] Stopping ...
+2016-09-30 02:13:32 Workerman[push.php] has been stopped
+2016-09-30 02:13:32 Workerman[push.php] stop success
+2016-09-30 02:13:34 Workerman[push.php] start in DAEMON mode
+2016-09-30 02:18:04 Workerman[push.php] stop 
+2016-09-30 02:18:04 Workerman[push.php] is stoping ...
+2016-09-30 02:18:04 Workerman[push.php] Stopping ...
+2016-09-30 02:18:04 Workerman[push.php] has been stopped
+2016-09-30 02:18:04 Workerman[push.php] stop success
+2016-09-30 02:18:05 Workerman[push.php] start in DAEMON mode
+2016-09-30 02:19:54 Workerman[push.php] stop 
+2016-09-30 02:19:54 Workerman[push.php] is stoping ...
+2016-09-30 02:19:54 Workerman[push.php] Stopping ...
+2016-09-30 02:19:54 Workerman[push.php] has been stopped
+2016-09-30 02:19:54 Workerman[push.php] stop success
+2016-09-30 02:19:56 Workerman[push.php] start in DAEMON mode
+2016-09-30 02:28:19 Workerman[start_udp.php] stop 
+2016-09-30 02:28:19 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:28:19 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:28:19 Workerman[start_udp.php] has been stopped
+2016-09-30 02:28:19 Workerman[start_udp.php] stop success
+2016-09-30 02:30:35 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:34:11 Workerman[start_udp.php] stop 
+2016-09-30 02:34:11 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:34:11 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:34:11 Workerman[start_udp.php] has been stopped
+2016-09-30 02:34:11 Workerman[start_udp.php] stop success
+2016-09-30 02:34:12 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:37:00 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 02:37:00 Workerman[start_websocket.php] already running
+2016-09-30 02:37:05 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 02:37:05 Workerman[start_websocket.php] already running
+2016-09-30 02:37:12 Workerman[start_websocket.php] stop 
+2016-09-30 02:37:12 Workerman[start_websocket.php] is stoping ...
+2016-09-30 02:37:12 Workerman[start_websocket.php] Stopping ...
+2016-09-30 02:37:12 Workerman[start_websocket.php] has been stopped
+2016-09-30 02:37:12 Workerman[start_websocket.php] stop success
+2016-09-30 02:37:15 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 02:37:25 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function send() in /vagrant/workerman/Applications/start_websocket.php on line 15
+2016-09-30 02:37:25 worker[none:5077] exit with status 65280
+2016-09-30 02:38:49 Workerman[start_websocket.php] stop 
+2016-09-30 02:38:49 Workerman[start_websocket.php] is stoping ...
+2016-09-30 02:38:49 Workerman[start_websocket.php] Stopping ...
+2016-09-30 02:38:49 Workerman[start_websocket.php] has been stopped
+2016-09-30 02:38:49 Workerman[start_websocket.php] stop success
+2016-09-30 02:38:55 Workerman[start_udp.php] stop 
+2016-09-30 02:38:55 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:38:55 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:38:55 Workerman[start_udp.php] has been stopped
+2016-09-30 02:38:55 Workerman[start_udp.php] stop success
+2016-09-30 02:39:04 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:40:28 Workerman[start_udp.php] stop 
+2016-09-30 02:40:28 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:40:28 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:40:28 Workerman[start_udp.php] has been stopped
+2016-09-30 02:40:28 Workerman[start_udp.php] stop success
+2016-09-30 02:40:30 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:41:31 Workerman[start_udp.php] stop 
+2016-09-30 02:41:31 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:41:31 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:41:31 Workerman[start_udp.php] has been stopped
+2016-09-30 02:41:31 Workerman[start_udp.php] stop success
+2016-09-30 02:41:33 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:42:30 Workerman[start_websocket.php] stop 
+2016-09-30 02:42:30 Workerman[start_websocket.php] not run
+2016-09-30 02:42:34 Workerman[start_websocket.php] stop 
+2016-09-30 02:42:34 Workerman[start_websocket.php] not run
+2016-09-30 02:42:39 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 02:43:09 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function send() in /vagrant/workerman/Applications/start_websocket.php on line 15
+2016-09-30 02:43:09 worker[none:5264] exit with status 65280
+2016-09-30 02:43:26 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function send() in /vagrant/workerman/Applications/start_websocket.php on line 15
+2016-09-30 02:43:26 worker[none:5278] exit with status 65280
+2016-09-30 02:43:31 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function send() in /vagrant/workerman/Applications/start_websocket.php on line 15
+2016-09-30 02:43:31 worker[none:5285] exit with status 65280
+2016-09-30 02:43:51 Workerman[start_websocket.php] stop 
+2016-09-30 02:43:51 Workerman[start_websocket.php] is stoping ...
+2016-09-30 02:43:51 Workerman[start_websocket.php] Stopping ...
+2016-09-30 02:43:51 Workerman[start_websocket.php] has been stopped
+2016-09-30 02:43:51 Workerman[start_websocket.php] stop success
+2016-09-30 02:43:57 Workerman[start_udp.php] stop 
+2016-09-30 02:43:57 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:43:57 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:43:57 Workerman[start_udp.php] has been stopped
+2016-09-30 02:43:57 Workerman[start_udp.php] stop success
+2016-09-30 02:44:02 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 02:45:23 Workerman[start_websocket.php] stop 
+2016-09-30 02:45:23 Workerman[start_websocket.php] not run
+2016-09-30 02:45:27 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 02:45:33 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function send() in /vagrant/workerman/Applications/start_websocket.php on line 15
+2016-09-30 02:45:33 worker[none:5349] exit with status 65280
+2016-09-30 02:45:35 WORKER EXIT UNEXPECTED E_ERROR Call to undefined function send() in /vagrant/workerman/Applications/start_websocket.php on line 15
+2016-09-30 02:45:35 worker[none:5351] exit with status 65280
+2016-09-30 02:50:23 Workerman[start_websocket.php] stop 
+2016-09-30 02:50:23 Workerman[start_websocket.php] is stoping ...
+2016-09-30 02:50:23 Workerman[start_websocket.php] Stopping ...
+2016-09-30 02:50:23 Workerman[start_websocket.php] has been stopped
+2016-09-30 02:50:23 Workerman[start_websocket.php] stop success
+2016-09-30 02:50:25 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 02:53:14 Workerman[start_udp.php] stop 
+2016-09-30 02:53:14 Workerman[start_udp.php] is stoping ...
+2016-09-30 02:53:14 Workerman[start_udp.php] Stopping ...
+2016-09-30 02:53:14 Workerman[start_udp.php] has been stopped
+2016-09-30 02:53:14 Workerman[start_udp.php] stop success
+2016-09-30 02:53:20 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 03:04:44 Workerman[start_udp.php] stop 
+2016-09-30 03:04:44 Workerman[start_udp.php] is stoping ...
+2016-09-30 03:04:44 Workerman[start_udp.php] Stopping ...
+2016-09-30 03:04:44 Workerman[start_udp.php] has been stopped
+2016-09-30 03:04:44 Workerman[start_udp.php] stop success
+2016-09-30 03:04:49 Workerman[start_websocket.php] stop 
+2016-09-30 03:04:49 Workerman[start_websocket.php] is stoping ...
+2016-09-30 03:04:49 Workerman[start_websocket.php] Stopping ...
+2016-09-30 03:04:50 Workerman[start_websocket.php] has been stopped
+2016-09-30 03:04:50 Workerman[start_websocket.php] stop success
+2016-09-30 03:05:01 Workerman[push.php] srart 
+2016-09-30 03:05:21 Workerman[push.php] srart 
+2016-09-30 03:05:29 Workerman[push.php] stop 
+2016-09-30 03:05:29 Workerman[push.php] is stoping ...
+2016-09-30 03:05:29 Workerman[push.php] Stopping ...
+2016-09-30 03:05:29 Workerman[push.php] has been stopped
+2016-09-30 03:05:29 Workerman[push.php] stop success
+2016-09-30 03:05:31 Workerman[push.php] srart 
+2016-09-30 03:05:31 Workerman[push.php] not run
+2016-09-30 03:05:45 Workerman[push.php] restart 
+2016-09-30 03:05:45 Workerman[push.php] is stoping ...
+2016-09-30 03:05:45 Workerman[push.php] stop success
+2016-09-30 03:06:58 Workerman[push.php] Stopping ...
+2016-09-30 03:06:58 Workerman[push.php] has been stopped
+2016-09-30 03:06:59 Workerman[push.php] restart 
+2016-09-30 03:06:59 Workerman[push.php] is stoping ...
+2016-09-30 03:06:59 Workerman[push.php] stop success
+2016-09-30 03:07:01 Workerman[push.php] Stopping ...
+2016-09-30 03:07:01 Workerman[push.php] has been stopped
+2016-09-30 03:07:33 Workerman[push.php] restart 
+2016-09-30 03:07:33 Workerman[push.php] is stoping ...
+2016-09-30 03:07:33 Workerman[push.php] stop success
+2016-09-30 03:08:10 Workerman[push.php] Stopping ...
+2016-09-30 03:08:10 Workerman[push.php] has been stopped
+2016-09-30 03:08:11 Workerman[push.php] restart 
+2016-09-30 03:08:11 Workerman[push.php] is stoping ...
+2016-09-30 03:08:11 Workerman[push.php] stop success
+2016-09-30 03:14:43 Workerman[push.php] Stopping ...
+2016-09-30 03:14:43 Workerman[push.php] has been stopped
+2016-09-30 03:14:49 Workerman[push.php] restart 
+2016-09-30 03:14:49 Workerman[push.php] is stoping ...
+2016-09-30 03:14:49 Workerman[push.php] stop success
+2016-09-30 03:25:20 Workerman[push.php] Stopping ...
+2016-09-30 03:25:20 Workerman[push.php] has been stopped
+2016-09-30 03:25:25 Workerman[push.php] stop 
+2016-09-30 03:25:25 Workerman[push.php] not run
+2016-09-30 03:25:43 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 03:25:49 Workerman[start_websocket.php] start in DEBUG mode
+2016-09-30 03:25:49 Workerman[start_websocket.php] already running
+2016-09-30 03:26:01 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 03:29:01 Workerman[start_websocket.php] restart 
+2016-09-30 03:29:01 Workerman[start_websocket.php] is stoping ...
+2016-09-30 03:29:01 Workerman[start_websocket.php] Stopping ...
+2016-09-30 03:29:01 Workerman[start_websocket.php] has been stopped
+2016-09-30 03:29:01 Workerman[start_websocket.php] stop success
+2016-09-30 03:29:04 Workerman[start_websocket.php] Stopping ...
+2016-09-30 03:29:04 Workerman[start_websocket.php] has been stopped
+2016-09-30 03:29:13 Workerman[start_udp.php] restart 
+2016-09-30 03:29:13 Workerman[start_udp.php] is stoping ...
+2016-09-30 03:29:13 Workerman[start_udp.php] Stopping ...
+2016-09-30 03:29:13 Workerman[start_udp.php] has been stopped
+2016-09-30 03:29:13 Workerman[start_udp.php] stop success
+2016-09-30 03:29:14 Workerman[start_udp.php] Stopping ...
+2016-09-30 03:29:14 Workerman[start_udp.php] has been stopped
+2016-09-30 03:30:20 Workerman[start_udp.php] restart 
+2016-09-30 03:30:20 Workerman[start_udp.php] is stoping ...
+2016-09-30 03:30:20 Workerman[start_udp.php] stop success
+2016-09-30 03:30:59 Workerman[start_udp.php] Stopping ...
+2016-09-30 03:30:59 Workerman[start_udp.php] has been stopped
+2016-09-30 03:31:02 Workerman[start_websocket.php] restart 
+2016-09-30 03:31:02 Workerman[start_websocket.php] is stoping ...
+2016-09-30 03:31:02 Workerman[start_websocket.php] stop success
+2016-09-30 03:31:49 Workerman[start_websocket.php] Stopping ...
+2016-09-30 03:31:49 Workerman[start_websocket.php] has been stopped
+2016-09-30 03:31:53 Workerman[start_websocket.php] restart 
+2016-09-30 03:31:53 Workerman[start_websocket.php] is stoping ...
+2016-09-30 03:31:53 Workerman[start_websocket.php] stop success
+2016-09-30 03:31:57 WORKER EXIT UNEXPECTED E_RECOVERABLE_ERROR Object of class Workerman\Connection\TcpConnection could not be converted to string in /vagrant/workerman/Workerman/Protocols/Websocket.php on line 225
+2016-09-30 03:31:57 worker[none:6600] exit with status 65280
+2016-09-30 03:32:04 WORKER EXIT UNEXPECTED E_RECOVERABLE_ERROR Object of class Workerman\Connection\TcpConnection could not be converted to string in /vagrant/workerman/Workerman/Protocols/Websocket.php on line 225
+2016-09-30 03:32:04 worker[none:6602] exit with status 65280
+2016-09-30 03:32:21 Workerman[start_websocket.php] Stopping ...
+2016-09-30 03:32:21 Workerman[start_websocket.php] has been stopped
+2016-09-30 03:32:24 Workerman[start_websocket.php] restart 
+2016-09-30 03:32:24 Workerman[start_websocket.php] is stoping ...
+2016-09-30 03:32:24 Workerman[start_websocket.php] stop success
+2016-09-30 03:32:28 WORKER EXIT UNEXPECTED E_RECOVERABLE_ERROR Object of class Workerman\Connection\TcpConnection could not be converted to string in /vagrant/workerman/Applications/start_websocket.php on line 16
+2016-09-30 03:32:28 worker[none:6619] exit with status 65280
+2016-09-30 03:35:01 Workerman[start_websocket.php] Stopping ...
+2016-09-30 03:35:01 Workerman[start_websocket.php] has been stopped
+2016-09-30 03:35:05 Workerman[start_udp.php] restart 
+2016-09-30 03:35:05 Workerman[start_udp.php] is stoping ...
+2016-09-30 03:35:05 Workerman[start_udp.php] stop success
+2016-09-30 03:35:26 Workerman[start_udp.php] Stopping ...
+2016-09-30 03:35:26 Workerman[start_udp.php] has been stopped
+2016-09-30 03:35:33 Workerman[start_udp.php] start in DEBUG mode
+2016-09-30 05:21:32 Workerman[start_udp.php] Stopping ...
+2016-09-30 05:21:32 Workerman[start_udp.php] has been stopped
+2016-09-30 05:21:36 Workerman[start_websocket.php] restart 
+2016-09-30 05:21:36 Workerman[start_websocket.php] is stoping ...
+2016-09-30 05:21:36 Workerman[start_websocket.php] stop success
+2016-09-30 05:26:45 Workerman[start_websocket.php] Stopping ...
+2016-09-30 05:26:45 Workerman[start_websocket.php] has been stopped
+2016-09-30 05:26:51 Workerman[start_websocket.php] restart 
+2016-09-30 05:26:51 Workerman[start_websocket.php] is stoping ...
+2016-09-30 05:26:51 Workerman[start_websocket.php] stop success
+2016-09-30 05:26:54 Workerman[start_websocket.php] Stopping ...
+2016-09-30 05:26:54 Workerman[start_websocket.php] has been stopped
+2016-09-30 05:27:01 Workerman[start_udp.php] restart 
+2016-09-30 05:27:01 Workerman[start_udp.php] is stoping ...
+2016-09-30 05:27:01 Workerman[start_udp.php] stop success
+2016-09-30 05:27:04 Workerman[start_udp.php] Stopping ...
+2016-09-30 05:27:04 Workerman[start_udp.php] has been stopped
+2016-09-30 05:33:17 Workerman[start.php] restart 
+2016-09-30 05:33:17 Workerman[start.php] is stoping ...
+2016-09-30 05:33:17 Workerman[start.php] stop success
+2016-09-30 05:36:10 Workerman[start.php] Stopping ...
+2016-09-30 05:36:10 Workerman[start.php] has been stopped
+2016-09-30 05:36:48 Workerman[start.php] restart 
+2016-09-30 05:36:48 Workerman[start.php] is stoping ...
+2016-09-30 05:36:48 Workerman[start.php] stop success
+2016-09-30 05:36:56 Workerman[start.php] Stopping ...
+2016-09-30 05:36:56 Workerman[start.php] has been stopped
+2016-09-30 05:37:07 Workerman[start.php] restart 
+2016-09-30 05:37:07 Workerman[start.php] is stoping ...
+2016-09-30 05:37:07 Workerman[start.php] stop success
+2016-09-30 05:38:19 Workerman[start.php] Stopping ...
+2016-09-30 05:38:19 Workerman[start.php] has been stopped
+2016-09-30 05:38:38 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 05:39:25 Workerman[start_websocket.php] start_udp.php 
+2016-09-30 05:39:45 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 05:39:45 Workerman[start_websocket.php] already running
+2016-09-30 05:39:45 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 05:41:09 Workerman[start_websocket.php] start in DAEMON mode
+2016-09-30 05:41:09 Workerman[start_websocket.php] already running
+2016-09-30 05:41:09 Workerman[start_udp.php] start in DAEMON mode
+2016-09-30 05:41:09 Workerman[start_udp.php] already running
+2016-09-30 05:41:41 Workerman[start_websocket.php] restart 
+2016-09-30 05:41:41 Workerman[start_websocket.php] is stoping ...
+2016-09-30 05:41:41 Workerman[start_websocket.php] Stopping ...
+2016-09-30 05:41:41 Workerman[start_websocket.php] has been stopped
+2016-09-30 05:41:41 Workerman[start_websocket.php] stop success
+2016-09-30 05:41:41 Workerman[start_udp.php] restart 
+2016-09-30 05:41:41 Workerman[start_udp.php] is stoping ...
+2016-09-30 05:41:41 Workerman[start_udp.php] Stopping ...
+2016-09-30 05:41:41 Workerman[start_udp.php] has been stopped
+2016-09-30 05:41:41 Workerman[start_udp.php] stop success
+2016-09-30 05:41:47 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send() on null in /vagrant/workerman/Applications/start/start_websocket.php on line 28
+2016-09-30 05:41:47 worker[none:8938] exit with status 65280
+2016-09-30 05:42:36 Workerman[start_websocket.php] restart 
+2016-09-30 05:42:36 Workerman[start_websocket.php] is stoping ...
+2016-09-30 05:42:36 Workerman[start_websocket.php] Stopping ...
+2016-09-30 05:42:36 Workerman[start_websocket.php] has been stopped
+2016-09-30 05:42:36 Workerman[start_websocket.php] stop success
+2016-09-30 05:42:36 Workerman[start_udp.php] restart 
+2016-09-30 05:42:36 Workerman[start_udp.php] is stoping ...
+2016-09-30 05:42:36 Workerman[start_udp.php] Stopping ...
+2016-09-30 05:42:36 Workerman[start_udp.php] has been stopped
+2016-09-30 05:42:36 Workerman[start_udp.php] stop success
+2016-09-30 05:42:40 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send() on null in /vagrant/workerman/Applications/start/start_websocket.php on line 28
+2016-09-30 05:42:40 worker[none:8969] exit with status 65280
+2016-09-30 05:44:24 Workerman[start_websocket.php] restart 
+2016-09-30 05:44:24 Workerman[start_websocket.php] is stoping ...
+2016-09-30 05:44:24 Workerman[start_websocket.php] Stopping ...
+2016-09-30 05:44:24 Workerman[start_websocket.php] has been stopped
+2016-09-30 05:44:24 Workerman[start_websocket.php] stop success
+2016-09-30 05:44:24 Workerman[start_udp.php] restart 
+2016-09-30 05:44:24 Workerman[start_udp.php] is stoping ...
+2016-09-30 05:44:24 Workerman[start_udp.php] Stopping ...
+2016-09-30 05:44:24 Workerman[start_udp.php] has been stopped
+2016-09-30 05:44:24 Workerman[start_udp.php] stop success
+2016-09-30 05:44:28 WORKER EXIT UNEXPECTED E_ERROR Call to a member function send() on null in /vagrant/workerman/Applications/start/start_websocket.php on line 28
+2016-09-30 05:44:28 worker[none:9008] exit with status 65280
+2016-09-30 05:45:07 Workerman[start_websocket.php] restart 
+2016-09-30 05:45:07 Workerman[start_websocket.php] is stoping ...
+2016-09-30 05:45:07 Workerman[start_websocket.php] Stopping ...
+2016-09-30 05:45:07 Workerman[start_websocket.php] has been stopped
+2016-09-30 05:45:07 Workerman[start_websocket.php] stop success
+2016-09-30 05:45:07 Workerman[start_udp.php] restart 
+2016-09-30 05:45:07 Workerman[start_udp.php] is stoping ...
+2016-09-30 05:45:07 Workerman[start_udp.php] Stopping ...
+2016-09-30 05:45:07 Workerman[start_udp.php] has been stopped
+2016-09-30 05:45:07 Workerman[start_udp.php] stop success
+2016-09-30 05:49:00 Workerman[start_websocket.php] restart 
+2016-09-30 05:49:00 Workerman[start_websocket.php] is stoping ...
+2016-09-30 05:49:00 Workerman[start_websocket.php] Stopping ...
+2016-09-30 05:49:00 Workerman[start_websocket.php] has been stopped
+2016-09-30 05:49:00 Workerman[start_websocket.php] stop success
+2016-09-30 05:49:01 Workerman[start_udp.php] restart 
+2016-09-30 05:49:01 Workerman[start_udp.php] is stoping ...
+2016-09-30 05:49:01 Workerman[start_udp.php] Stopping ...
+2016-09-30 05:49:01 Workerman[start_udp.php] has been stopped
+2016-09-30 05:49:01 Workerman[start_udp.php] stop success
+2016-09-30 06:07:38 Workerman[start.php] start in DAEMON mode
+2016-10-08 02:34:18 Workerman[start.php] start in DAEMON mode
+2016-10-08 02:36:59 Workerman[start.php] restart 
+2016-10-08 02:36:59 Workerman[start.php] is stoping ...
+2016-10-08 02:36:59 Workerman[start.php] Stopping ...
+2016-10-08 02:36:59 Workerman[start.php] has been stopped
+2016-10-08 02:36:59 Workerman[start.php] stop success
+2016-10-08 02:47:33 Workerman[start.php] Stopping ...
+2016-10-08 02:47:33 Workerman[start.php] has been stopped
+2016-10-08 02:47:35 Workerman[start.php] restart 
+2016-10-08 02:47:35 Workerman[start.php] is stoping ...
+2016-10-08 02:47:35 Workerman[start.php] stop success
